@@ -1,7 +1,7 @@
 
 # utilFAB
 
-**utilFAB** es una librería desarrollada por `V4FAB` para facilitar tareas comunes de texto, selección de opciones y formato en Python.
+**utilFAB** es una librería desarrollada por `V4FAB` (*En desarrollo*) para facilitar tareas comunes de texto, selección de opciones y formato en Python.
 
 ## Funcionalidades
 
