@@ -6,7 +6,6 @@
 ## Funcionalidades
 
 - `printEsp(n)` – Imprime líneas en blanco.
-- `alyz(q)` – Devuelve el tipo de un objeto.
 - `decisionMake(...)` – Menú interactivo de selección.
 - `pb(...)` – Herramientas de procesamiento de strings (dividir, unir, invertir, cambiar mayúsculas/minúsculas).
 
