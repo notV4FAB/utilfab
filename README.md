@@ -7,7 +7,8 @@
 
 - `printEsp(n)` – Imprime líneas en blanco.
 - `decisionMake(...)` – Menú interactivo de selección.
-- `pb(...)` – Herramientas de procesamiento de strings (dividir, unir, invertir, cambiar mayúsculas/minúsculas).
+- `pb(...)` – Herramientas de procesamiento de strings(oraciones) o listas (dividir, unir, invertir, cambiar mayúsculas/minúsculas).
+- `wd(...)` – Herramientas de procesamiento de strings(palabra) (dividir, unir, invertir, cambiar mayúsculas/minúsculas).
 
 ## Instalación
 
