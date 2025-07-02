@@ -6,9 +6,11 @@
 ## Funcionalidades
 
 - `printEsp(n)` – Imprime líneas en blanco.
-- `decisionMake(...)` – Menú interactivo de selección.
-- `pb(...)` – Herramientas de procesamiento de strings(oraciones) o listas (dividir, unir, invertir, cambiar mayúsculas/minúsculas).
-- `wd(...)` – Herramientas de procesamiento de strings(palabra) (dividir, unir, invertir, cambiar mayúsculas/minúsculas).
+- `decisionMake(...)` – Menú interactivo para decisiones.
+- `dec(question, options)` – Menú interactivo para decisiones (complejo).
+- `pb(...)` – Herramientas de procesamiento de strings (oraciones) y listas (dividir, unir, invertir, cambiar mayúsculas/minúsculas).
+- `wd(...)` - Herramientas de procesamiento de strings (palabras) (dividir, unir, cambiar letra, cambiar mayúsculas/minúsculas).
+
 
 ## Instalación
 
